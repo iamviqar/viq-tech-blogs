@@ -1,0 +1,92 @@
+site_name: VIQ Tech Documentation
+site_description: Comprehensive technical documentation covering databases, DevOps, design patterns, data technologies, system design, and Java architecture
+site_author: VIQ Tech Team
+site_url: https://viq-tech-docs.github.io
+
+# Repository
+repo_name: viq-tech-blogs
+repo_url: https://github.com/your-username/viq-tech-blogs
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    # Keep all navigation in the left sidebar and expand by default
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Navigation
+nav:
+  - Home: index.md
+  - Database: database.md
+  - DevOps: devops.md
+  - Design Patterns: design-patterns.md
+  - Data:
+    - SQL: data/sql.md
+    - NoSQL: data/nosql.md
+  - System Design: system-design.md
+  - Java Architect: java-architect.md
+
+# Plugins
+plugins:
+  - search
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/your-handle
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/your-profile
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX  # Replace with your Google Analytics ID
+
+# Copyright
+copyright: Copyright &copy; 2025 VIQ Tech Team

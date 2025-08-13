@@ -1,0 +1,12 @@
+requirements.txt
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+site/
+.site/
+node_modules/
+*.log

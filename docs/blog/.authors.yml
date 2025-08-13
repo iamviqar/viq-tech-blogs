@@ -1,0 +1,18 @@
+authors:
+  viqtech:
+    name: VIQ Tech Team
+    description: Technology enthusiasts and developers
+    avatar: https://github.com/identicons/viqtech.png
+    url: https://github.com/your-username
+  
+  john_doe:
+    name: John Doe
+    description: Senior Software Engineer
+    avatar: https://github.com/identicons/johndoe.png
+    url: https://github.com/johndoe
+    
+  jane_smith:
+    name: Jane Smith
+    description: AI/ML Engineer
+    avatar: https://github.com/identicons/janesmith.png
+    url: https://github.com/janesmith
