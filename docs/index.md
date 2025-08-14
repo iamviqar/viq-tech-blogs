@@ -16,12 +16,12 @@ Technical Architect | Lead Developer | Full-Stack Engineer
 **12+ years of expertise** in Software Design, Development, and Leadership. Currently serving as **Technical Architect** at Encora Innovation Labs India Pvt. Ltd, with a proven track record of architecting scalable, distributed microservices and leading high-performing technical teams.
 
 ### Core Expertise
-- **Microservices Architecture** - Cloud-native, scalable distributed systems
-- **Leadership & Mentoring** - Leading technical teams using Agile methodologies
-- **Enterprise Integration** - REST APIs, GraphQL, SOAP endpoints, and Webhooks
-- **Cloud Technologies** - AWS, Docker, Kubernetes, CI/CD, Infrastructure automation
-- **Database Design** - SQL, NoSQL, performance optimization, distributed caching
-- **DevOps Excellence** - CI/CD pipelines, containerization, monitoring, and APM integration
+- **Microservices Architecture** - Cloud-native, scalable distributed systems.
+- **Leadership & Mentoring** - Leading technical teams using Agile methodologies.
+- **Enterprise Integration** - REST APIs, GraphQL, SOAP endpoints, and Webhooks.
+- **Cloud Technologies** - AWS, Docker, Kubernetes, CI/CD, Infrastructure automation.
+- **Database Design** - SQL, NoSQL, performance optimization, distributed caching.
+- **DevOps Excellence** - CI/CD pipelines, containerization, monitoring, and APM integration.
 
 ## 🚀 Technical Skills
 
